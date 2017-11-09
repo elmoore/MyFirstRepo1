@@ -1,3 +1,6 @@
+import time
+
+
 ### MAD LIB ###
 
 print("Write a place")
@@ -29,3 +32,5 @@ print("Have you ever gone to " + place1 + "? It is really " +  adjective1 + " an
 print("You can " + verb1 + ", " + verb2 + ", and " + verb3 + "! But make sure to not eat too much " + noun1 + ", or you might feel a little " + adjective2 + "!")
 print("If you really like " + place1 + ", then next time, bring a " + noun2 + "!")
 
+
+time.sleep(60)
